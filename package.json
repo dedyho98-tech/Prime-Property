@@ -1,0 +1,14 @@
+{
+  "name": "prime-property",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Prime Property public web platform and internal agent portal.",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}
