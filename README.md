@@ -9,7 +9,7 @@ npm install
 npm start
 ```
 
-Aplikasi berjalan di `http://localhost:3000`.
+Aplikasi berjalan di `https://prime-property-production.up.railway.app/`.
 
 Jika `bcryptjs` belum terpasang, aplikasi tetap bisa berjalan dengan fallback `scrypt` bawaan Node.js. Setelah `npm install`, hash password baru akan memakai bcrypt cost 10 sesuai kriteria.
 
